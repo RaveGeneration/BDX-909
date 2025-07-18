@@ -8,13 +8,17 @@ _  _, _// /_/ /__ |/ //  __/     / /_/ / /  __/  / / /  __/  /   / /_/ // /_ _  
 RAVE GENERATION - BDX-909 (README)           
 ===================================
 
-MIDI SWITCH:
-OFF: All keys use default kick tuning - EXCEPT C6-B7 which select 24 presets
-ON: Full chromatic pitch control - play kicks at any musical pitch
+MODULATION WHEEL (CC1): 
+OFF (0-94%): Free-running oscillator with authentic variation and randomness 
+ON (95-100%): Consistent phase reset for tight, predictable timing
 
 X2 PARAMETERS:
 TUNE X2: Doubles the pitch envelope decay time
 DECAY X2: Doubles the amplitude decay time
+
+MIDI SWITCH:
+OFF: All keys use default kick tuning - EXCEPT C6-B7 which select 24 presets
+ON: Full chromatic pitch control - play kicks at any musical pitch
 
 PRESET LIST:
 Note: Logic/Cubase shows C6-B7, Studio One/Ableton/Pro Tools shows C5-B6
